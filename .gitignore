@@ -1,0 +1,4 @@
+# Project exclude paths
+/LinkedList/target/
+/Stack/target/
+/.idea
